@@ -1,0 +1,15 @@
+[
+    {
+        "id": "ad001",
+        "content": "Get 20% off at Rockerbox Eats!",
+        "link": "https://example.com/promo",
+        "active": true
+    },
+    {
+        "id": "ad002",
+        "content": "Fast delivery with Rockerbox!",
+        "link": "https://example.com/delivery",
+        "active": false
+    }
+]
+//JSON, or JavaScript Object Notation, is a format for storing and exchanging data that's readable by both humans and machines.
